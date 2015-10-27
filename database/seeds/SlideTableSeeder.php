@@ -14,19 +14,19 @@ class SlideTableSeeder extends Seeder
     {
         DB::table('slides')->insert([
             'description' => '... Kut kut kut kuuuutttt...',
-            'filepath' => '1.jpg',
+            'filepath' => '1.png',
             'flame_id' => '7'
         ]);
 
         DB::table('slides')->insert([
             'description' => 'NeEeEeE!!!',
-            'filepath' => '2.jpg',
+            'filepath' => '2.png',
             'flame_id' => '12'
         ]);
 
         DB::table('slides')->insert([
             'description' => 'Hoe veel damage?',
-            'filepath' => '3.jpg',
+            'filepath' => '3.png',
             'flame_id' => '23'
         ]);
     }
