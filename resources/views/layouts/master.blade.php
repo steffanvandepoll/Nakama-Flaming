@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Nakama - @yield('title')</title>
+        <title>Nakama Flaming - @yield('title')</title>
         <link href="css/app.css" rel="stylesheet" type="text/css">
         <link href="assets/bower/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
         <script src="assets/bower/platform/platform.js"></script>
