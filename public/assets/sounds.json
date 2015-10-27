@@ -1,0 +1,450 @@
+[
+    {
+    "title": "Speel jij in bronze ofzo!",
+    "types": [
+        {
+            "icon": "fa-fire",
+            "type": "flame",
+            "description": "flame",
+            "color" : "#B94A48"
+        },
+        {
+            "icon": "fa-wheelchair",
+            "type": "troll",
+            "description": "troll",
+            "color" : "#785b23"
+        }
+    ],
+    "champions" : [
+        "Braum"
+    ],
+    "path" : "/assets/sfx/jp - Braum - in brons spelen.mp3",
+    "date" : "25-08-14"
+}
+    ,
+    {
+        "title": "Nog steeds geen ult?!",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            }
+        ],
+        "champions" : [
+            "Braum"
+        ],
+        "path" : "/assets/sfx/jp - Braum - nog steeds geen ult.mp3",
+        "date" : "25-08-14"
+    }
+    ,
+    {
+        "title": "OMG!!!",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            }
+        ],
+        "champions" : [
+            "Braum"
+        ],
+        "path" : "/assets/sfx/jp - Braum - omg.mp3",
+        "date" : "25-08-14"
+    }
+    ,
+    {
+        "title": "Ik reageer er niet eens op...",
+        "types": [
+            {
+                "icon": "fa-tint",
+                "type": "cry",
+                "description": "crying",
+                "color" : "#4392e1"
+            }
+        ],
+        "champions" : [
+            "Caitlyn"
+        ],
+        "path" : "/assets/sfx/stef - Caitlyn - reageert niet.mp3",
+        "date" : "25-08-14"
+    }
+    ,
+    {
+        "title": "Hoe lucky?",
+        "types": [
+            {
+                "icon": "fa-tint",
+                "type": "cry",
+                "description": "crying",
+                "color" : "#4392e1"
+            },
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            }
+        ],
+        "champions" : [
+            "Viktor"
+        ],
+        "path" : "/assets/sfx/loek-viktor-kk-lucky.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "Oh nee... het is Morgana",
+        "types": [
+                {
+                    "icon": "fa-wheelchair",
+                    "type": "troll",
+                    "description": "troll",
+                    "color" : "#785b23"
+                },
+                {
+                    "icon": "fa-exclamation",
+                    "type": "fear",
+                    "description": "fear",
+                    "color" : "#9743ac"
+                }
+        ],
+        "champions" : [
+            "Graves"
+        ],
+        "path" : "/assets/sfx/jp-graves-o-nee-het-is-morgana.mp3",
+        "date" : "25-08-14"
+    },
+
+    {
+        "title": "... Kut kut kut kuuuutttt...",
+        "types": [
+            {
+                "icon": "fa-exclamation",
+                "type": "fear",
+                "description": "fear",
+                "color" : "#9743ac"
+            }
+        ],
+        "champions" : [
+            "Graves"
+        ],
+        "path" : "/assets/sfx/jp-graves-oh-jesus-kut-kut-kut-kut-kut.mp3",
+         "date" : "25-08-14"
+    },
+    {
+        "title": "Feed me...",
+        "types": [
+            {
+                "icon": "fa-child",
+                "type": "win",
+                "description": "win",
+                "color" : "#408334"
+            }
+        ],
+        "champions" : [
+            "Amumu"
+        ],
+        "path" : "/assets/sfx/nicky-amamu-feedme.mp3",
+         "date" : "25-08-14"
+    },
+    {
+        "title": "Ik miste mijn ult!",
+        "types": [
+            {
+                "icon": "fa-wheelchair",
+                "type": "troll",
+                "description": "troll",
+                "color" : "#785b23"
+            },
+            {
+                "icon": "fa-smile-o",
+                "type": "lol",
+                "description": "lol",
+                "color" : "#f45600"
+            }
+        ],
+        "champions" : [
+            "Graves",
+            "Sivir",
+            "Vi"
+        ],
+        "path" : "/assets/sfx/jp-graves-ik-miste-mijn-ult.mp3",
+         "date" : "25-08-14"
+    },
+    {
+        "title": "JaAaAaA!!!",
+        "types": [
+            {
+                "icon": "fa-exclamation",
+                "type": "fear",
+                "description": "fear",
+                "color" : "#9743ac"
+            }
+        ],
+        "champions" : [
+            "Graves"
+        ],
+        "path" : "/assets/sfx/jp-graves-jaaaaaaaaa.mp3",
+         "date" : "25-08-14"
+    },
+    {
+        "title": "Lucky Bastard!",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            }
+        ],
+        "champions" : [
+            "Graves"
+        ],
+        "path" : "/assets/sfx/jp-graves-kk-tf-lucky-bastard.mp3",
+         "date" : "25-08-14"
+    },
+    {
+        "title": "NeEeEeE!!!",
+        "types": [
+            {
+                "icon": "fa-tint",
+                "type": "cry",
+                "description": "crying",
+                "color" : "#4392e1"
+            }
+        ],
+        "champions" : [
+            "Graves"
+        ],
+        "path" : "/assets/sfx/jp-graves-neeeeeee.mp3",
+         "date" : "25-08-14"
+    },
+    {
+        "title": "more neeeeee!!!!",
+        "types": [
+            {
+                "icon": "fa-tint",
+                "type": "cry",
+                "description": "crying",
+                "color" : "#4392e1"
+            },
+            {
+                "icon": "fa-exclamation",
+                "type": "fear",
+                "description": "fear",
+                "color" : "#9743ac"
+            }
+        ],
+        "champions" : [
+            "Graves"
+        ],
+        "path" : "/assets/sfx/jp-graves-nick-neeeee.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "Laterrr...",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            }
+        ],
+        "champions" : [
+            "Xin Zhao"
+        ],
+        "path" : "/assets/sfx/jp-xin-ok-ok-later.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "En ik nieeeeettttt!",
+        "types": [
+            {
+                "icon": "fa-exclamation",
+                "type": "fear",
+                "description": "fear",
+                "color" : "#9743ac"
+            },
+            {
+                "icon": "fa-smile-o",
+                "type": "lol",
+                "description": "lol",
+                "color" : "#f45600"
+            }
+        ],
+        "champions" : [
+            "Graves",
+            "Viktor",
+            "Sivir",
+            "Vi"
+        ],
+        "path" : "/assets/sfx/loek-viktor-nee.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "Waardelooooss!",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            },
+            {
+                "icon": "fa-wheelchair",
+                "type": "troll",
+                "description": "troll",
+                "color" : "#785b23"
+            }
+        ],
+        "champions" : [
+            "Graves",
+            "Viktor"
+        ],
+        "path" : "/assets/sfx/nicky-vi-nice-ss-loek.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "Waarom doe je dat!",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            }
+        ],
+        "champions" : [
+            "Graves",
+            "Sivir"
+        ],
+        "path" : "/assets/sfx/steffan-sivir-kutzooi.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "Hij zoekt het gewoon op!",
+        "types": [
+            {
+                "icon": "fa-share",
+                "type": "leave",
+                "description": "leave",
+                "color" : "#247679"
+            },
+            {
+                "icon": "fa-wheelchair",
+                "type": "troll",
+                "description": "troll",
+                "color" : "#785b23"
+            }
+        ],
+        "champions" : [
+            "Viktor",
+            "Sivir"
+        ],
+        "path" : "/assets/sfx/steffan-sivir-loek-zoekt-het-gewoon-op.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "Ja ik ben dood...",
+        "types": [
+            {
+                "icon": "fa-tint",
+                "type": "cry",
+                "description": "crying",
+                "color" : "#4392e1"
+            },
+            {
+                "icon": "fa-wheelchair",
+                "type": "troll",
+                "description": "troll",
+                "color" : "#785b23"
+            }
+        ],
+        "champions" : [
+            "Xin Zhao",
+            "Kennen"
+        ],
+        "path" : "/assets/sfx/xin-kennen-dood.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "Garen zit alleen maar in bosjes!",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            },
+            {
+                "icon": "fa-tint",
+                "type": "cry",
+                "description": "crying",
+                "color" : "#4392e1"
+            }
+        ],
+        "champions" : [
+            "Xin Zhao"
+        ],
+        "path" : "/assets/sfx/jp-xin-garen-crying.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "jij bent fucking crazy!",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            }
+        ],
+        "champions" : [
+            "Xin Zhao"
+        ],
+        "path" : "/assets/sfx/jp-xin-fucking-crazy.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "Fucking useless!",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            }
+        ],
+        "champions" : [
+            "Xin Zhao"
+        ],
+        "path" : "/assets/sfx/jp-xin-useless.mp3",
+        "date" : "25-08-14"
+    },
+    {
+        "title": "Garen doet k*!%*# veel damage!",
+        "types": [
+            {
+                "icon": "fa-fire",
+                "type": "flame",
+                "description": "flame",
+                "color" : "#B94A48"
+            },
+            {
+                "icon": "fa-tint",
+                "type": "cry",
+                "description": "crying",
+                "color" : "#4392e1"
+            }
+        ],
+        "champions" : [
+            "Xin Zhao"
+        ],
+        "path" : "/assets/sfx/jp-xin-garen-dmg.mp3",
+        "date" : "25-08-14"
+    }
+]

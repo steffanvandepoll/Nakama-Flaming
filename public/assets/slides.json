@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Feed Me!?",
+        "image" : "/assets/img/slider/1.jpg",
+        "path" : "/assets/sfx/nicky-amamu-feedme.mp3"
+    },
+    {
+        "title": "Oh Jesus!",
+        "image" : "/assets/img/slider/2.jpg",
+        "path" : "/assets/sfx/jp-graves-oh-jesus-kut-kut-kut-kut-kut.mp3"
+    },
+    {
+        "title": "Kanker veel damage",
+        "image" : "/assets/img/slider/3.jpg",
+        "path" : "/assets/sfx/jp-xin-garen-dmg.mp3"
+    },
+    {
+        "title": "Loek zoekt het weer op...",
+        "image" : "/assets/img/slider/4.jpg",
+        "path" : "/assets/sfx/steffan-sivir-loek-zoekt-het-gewoon-op.mp3"
+    }
+]

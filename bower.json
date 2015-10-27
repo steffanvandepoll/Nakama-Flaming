@@ -1,0 +1,25 @@
+{
+  "name": "nakama-flaming",
+  "authors": [
+    "Steffan van de Poll <steffan@awesomestuff.nl>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/assets/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.16",
+    "bootstrap": "~3.2.0",
+    "font-awesome": ">=4.0.3",
+    "angular-animate": "1.2.16",
+    "angular-touch": "1.2.16",
+	"angular-audio": "1.2.16",
+    "angular-bootstrap": "~0.11.0",
+    "paper-checkbox": "Polymer/paper-checkbox#~0.3.5"
+  }
+}

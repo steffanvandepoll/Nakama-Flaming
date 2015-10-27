@@ -1,0 +1,252 @@
+@import "../bower/bootstrap/less/bootstrap.less";
+
+@primary: white;
+@secondary: #8d1004; //#122F54;
+
+html, body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 100%;
+	background: #e0e0e0;
+	color: black;
+}
+
+p{
+	line-height: 1.5em;
+}
+
+.container{
+    background-color: white;
+}
+
+.s-responsive-img{
+  max-height: 100%;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
+
+
+.clearfix() {
+	zoom: 1;
+	&:before { content: ''; display: block; }
+	&:after { content: ''; display: table; clear: both; }
+}
+
+.s-project-carousel{
+  min-height: 450px;
+  h2{
+    width:100%;
+  }
+  .s-carousel-content{
+      padding:0px;
+      margin:0px;
+      h4{
+        margin:0px;
+      }
+      p{
+        margin:0px;
+        padding:0px;
+      }
+  }
+
+}
+.s-carousel-play{
+  cursor: pointer;
+  text-align: right;
+  display: inline-block;
+  padding-bottom: 5px;
+  border-bottom: solid 2px transparent;
+  &:hover{
+    border-bottom: solid 2px white;
+  }
+}
+
+.s-slide-intro{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 80%;
+  width:100%;
+  min-height: 525px;
+  position: relative;
+
+  .s-slide-info{
+    position: absolute;
+    padding:30px;
+    bottom: 25px;
+    background: rgba(0,0,0,0.7);
+    color:@primary;
+  }
+}
+
+.s-header-bar{
+  height:40px;
+  background-color:@secondary;
+}
+
+.s-sound-list{
+  list-style: none;
+  margin-top:20px;
+  padding:0px;
+
+  img{
+    margin-right: 5px;
+  }
+  li{
+    padding:0px 0px 5px 0px;
+  }
+  .s-sound{
+    padding:0px 0px 3px 0px;
+    margin: 5px 0px;
+
+    border-bottom: 1px solid darkgray;
+
+    .s-description{
+      line-height: 50px;
+      font-weight: bold;
+      .s-date{
+        font-size: 0.8em;
+        font-weight:normal;
+        color:gray;
+      }
+      .s-play{
+        height:50px;
+        display: inline-block;
+        color:@secondary;
+
+        .fa {
+          font-size: 1.1em;
+          margin: 0 auto;
+          display: inline-block;
+          border-bottom: 2px solid @secondary;
+          padding: 5px 0px;
+
+          margin-left:25px;
+          &:focus, &:hover {
+            color: gray;
+            border-bottom: 2px solid gray;
+            cursor: pointer;
+          }
+        }
+
+
+
+      }
+    }
+
+    li{
+      height:50px;
+      display: inline-block;
+      padding:0px;
+      margin:0px;
+    }
+  }
+}
+
+.s-icon {
+  height:50px;
+  width:50px;
+  @icon-size: 25px;
+  padding-top:5px;
+  color:white;
+
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  .fa {
+
+    height: @icon-size;
+    width: @icon-size;
+    line-height: @icon-size;
+    margin: 0 auto;
+    margin-bottom: 2px;
+
+    display: block;
+  }
+  .s-icon-label {
+    font-size: 0.6em;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: block;
+  }
+}
+
+.s-filter{
+  padding-right:40px;
+  padding-top:25px;
+  width:100%;
+  text-align: right;
+  h3{
+    text-transform: uppercase;
+  }
+
+  ul{
+    list-style: none;
+    padding:0px;
+    margin:0px;
+    li{
+      text-align: right;
+      height:50px;
+      position: relative;
+      padding-right:50px;
+    }
+    paper-checkbox{
+      margin-left:10px;
+      top:15px;
+      right:14px;
+      position: absolute;
+    }
+  }
+}
+
+.s-download{
+  line-height: 50px ;
+}
+
+.s-project-carousel{
+  min-height: 450px;
+  h2{
+    width:100%;
+  }
+  .s-carousel-content{
+      padding:0px;
+      margin:0px;
+      h4{
+        margin:0px;
+      }
+      p{
+        margin:0px;
+        padding:0px;
+      }
+  }
+
+}
+.s-carousel-play{
+  cursor: pointer;
+  text-align: right;
+  display: inline-block;
+  padding-bottom: 5px;
+  border-bottom: solid 2px transparent;
+  &:hover{
+    border-bottom: solid 2px white;
+  }
+}
+
+.s-slide-intro{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 80%;
+  width:100%;
+  min-height: 525px;
+  position: relative;
+
+  .s-slide-info{
+    position: absolute;
+    padding:30px;
+    bottom: 25px;
+    background: rgba(0,0,0,0.7);
+    color:$secondary;
+  }
+}

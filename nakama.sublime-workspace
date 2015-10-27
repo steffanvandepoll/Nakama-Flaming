@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/home/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 3112,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "database/seeds/DatabaseSeeder.php",
+			"settings":
+			{
+				"buffer_size": 531,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/seeds/FlameTableSeeder.php",
+			"settings":
+			{
+				"buffer_size": 2500,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 917,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/assets/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 2408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/assets/js/carousel.js",
+			"settings":
+			{
+				"buffer_size": 687,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 151.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 768.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/nakama",
+		"/D/Projects/nakama/app",
+		"/D/Projects/nakama/app/Http",
+		"/D/Projects/nakama/app/Http/Controllers",
+		"/D/Projects/nakama/app/Http/Requests",
+		"/D/Projects/nakama/app/Jobs",
+		"/D/Projects/nakama/app/Providers",
+		"/D/Projects/nakama/database",
+		"/D/Projects/nakama/database/migrations",
+		"/D/Projects/nakama/database/seeds",
+		"/D/Projects/nakama/public",
+		"/D/Projects/nakama/public/assets",
+		"/D/Projects/nakama/public/assets/bower",
+		"/D/Projects/nakama/public/assets/bower/bootstrap",
+		"/D/Projects/nakama/public/assets/bower/bootstrap/fonts",
+		"/D/Projects/nakama/public/assets/css",
+		"/D/Projects/nakama/public/assets/js",
+		"/D/Projects/nakama/public/img",
+		"/D/Projects/nakama/resources",
+		"/D/Projects/nakama/resources/assets",
+		"/D/Projects/nakama/resources/assets/sass",
+		"/D/Projects/nakama/storage"
+	],
+	"file_history":
+	[
+		"/D/Projects/nakama/database/seeds/FlameTypeTableSeeder.php",
+		"/D/Projects/nakama/database/seeds/ChampionTableSeeder.php",
+		"/D/Projects/nakama/public/assets/css/application.less",
+		"/D/Projects/nakama/public/assets/js/application.js",
+		"/D/Projects/nakama/app/Http/routes.php",
+		"/D/Projects/nakama/app/Http/Controllers/SlideController.php",
+		"/D/Projects/nakama/database/migrations/2015_10_25_500000_create_slide_table.php",
+		"/D/Projects/nakama/app/Models/Slide.php",
+		"/D/Projects/nakama/database/seeds/SlideTableSeeder.php",
+		"/D/Projects/nakama/resources/assets/sass/app.scss",
+		"/D/Projects/nakama/resources/views/home/index.blade.php",
+		"/D/Projects/nakama/public/assets/bower/angular/angular.js",
+		"/D/Projects/nakama/app/Http/Controllers/ChampionController.php",
+		"/D/Projects/nakama/app/Http/Controllers/FlameTypeController.php",
+		"/D/Projects/nakama/app/Http/Controllers/HomeController.php",
+		"/D/Projects/nakama/app/Http/Controllers/FlameController.php",
+		"/D/Projects/nakama/app/Models/Flame.php",
+		"/D/Projects/nakama/database/migrations/2015_10_24_400000_create_flame_table.php",
+		"/D/Projects/nakama/app/Models/FlameType.php",
+		"/D/Projects/nakama/resources/views/layouts/master.blade.php",
+		"/D/Projects/nakama/database/seeds/FlameTableSeeder.php",
+		"/D/Projects/nakama/database/migrations/2015_10_24_200000_create_flame_type_table.php",
+		"/D/Projects/nakama/app/Champion.php",
+		"/D/Projects/nakama/composer.json",
+		"/D/Projects/nakama/app/Models/Champion.php",
+		"/D/Projects/nakama/config/app.php",
+		"/D/Projects/nakama/gulpfile.js",
+		"/D/Projects/nakama/bower_components/font-awesome/bower.json",
+		"/D/Projects/nakama/database/migrations/2015_10_24_200000_create_champions_table.php",
+		"/D/Projects/nakama/database/seeds/UserTableSeeder.php",
+		"/D/Projects/nakama/database/seeds/DatabaseSeeder.php",
+		"/D/Projects/nakama/public/css/app.css",
+		"/D/Projects/nakama/nakama.sublime-project",
+		"/D/Projects/nakama/.env",
+		"/D/Projects/nakama/config/database.php",
+		"/D/Projects/nakama/package.json",
+		"/D/Projects/nakama/resources/views/auth/login.blade.php",
+		"/D/Projects/nakama/resources/views/auth/register.blade.php",
+		"/D/Projects/nakama/app/Http/Controllers/Auth/AuthController.php",
+		"/D/Projects/nakama/app/Http/Controllers/Controller.php",
+		"/D/Projects/nakama/app/Http/Controllers/UploadController.php",
+		"/D/Projects/nakama/app/Http/Controllers/LoginController.php",
+		"/C/Users/Steffan/.ssh/homestead.ppk",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Steffan/Documents/GitHub/soedesco/wordpress/wp-content/plugins/soedesco/types/product.php",
+		"/C/Users/Steffan/Documents/GitHub/soedesco/wordpress/wp-content/plugins/soedesco/soedesco.php",
+		"/C/Users/Steffan/Documents/GitHub/soedesco/wordpress/wp-content/plugins/soedesco/types/news.php",
+		"/C/Users/Steffan/Documents/GitHub/soedesco/app/scripts/controllers/carousel.js",
+		"/C/Users/Steffan/Documents/GitHub/soedesco/app/styles/main.less"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user",
+			"getCustom",
+			"preparePost"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/home/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2084,
+								2084
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 783.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "database/seeds/DatabaseSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "database/seeds/FlameTableSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2083,
+								2107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1223.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/layouts/master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								370,
+								370
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/assets/sass/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2372,
+								2372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5017.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/assets/js/carousel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								511,
+								511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nakama.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$get"
+			]
+		],
+		"width": 588.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 651.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
