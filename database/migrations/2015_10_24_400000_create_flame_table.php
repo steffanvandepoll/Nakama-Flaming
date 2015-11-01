@@ -18,7 +18,9 @@ class CreateFlameTable extends Migration
             $table->string('type_ids');
             $table->string('champion_ids');
             $table->string('filepath');
+            $table->integer('user_id');
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 

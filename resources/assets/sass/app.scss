@@ -1,7 +1,7 @@
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
 $primary : white;
-$secondary : #b60000;
+$secondary : #A94442;
 
 $primary-background: white;
 $secondary-background: #F1F1F1; 
@@ -37,8 +37,6 @@ p{
 .s-flame{
 	background-color: $secondary-background;
 	color: $secondary-font;
-
-	margin-bottom:10px;
 
 	padding:15px 0 0 0;
 
@@ -83,6 +81,10 @@ p{
 	padding:0;
 	margin:0;
 	list-style:none;
+
+	li{
+		margin-bottom:20px;
+	}
 }
 
 .s-champions{
@@ -155,6 +157,23 @@ p{
 
 }
 
+.s-flame-type-management{
+	color:white;
+	text-align:center;
+	margin:0;
+	cursor:pointer;
+
+	ul{
+		padding:0;
+		margin:0;
+		
+		li{
+			padding:2px;
+		}
+	}
+
+}
+
 .s-project-carousel{
   min-height: 450px;
   h2{
@@ -206,6 +225,75 @@ p{
 
 	height:125px;
 }
+
+.s-footer{
+	margin:25px 0px;
+
+	.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+	  background-color: darken($secondary, 5);
+	  border-color: darken($secondary, 5);
+ 	}
+
+ 	.btn-primary{
+ 	 	background-color: $secondary;
+	  	border-color: $secondary;
+ 	}
+
+}
+
+.s-header{
+	margin:25px 0;
+	h1{
+		font-size:45px;
+	}
+	img{
+		max-height:100px;
+	}
+	
+}
+
+.s-manage-flame{
+	margin-top:5px;
+	div{
+		padding:0;
+	}
+}
+
+.s-management-panel{
+	margin-bottom:20px;
+}
+
+.s-selectable-champion{
+	max-height:75px;
+	max-width:75px;
+
+	margin:5px;
+
+	display:inline-block;
+	cursor:pointer;
+}
+
+#s-champion-list{
+	text-align:center;
+	max-height:400px;
+	overflow:scroll;
+}
+
+#s-selected-champions{
+	height:105px;
+	.s-selectable-champion{
+		margin:0 5px;
+	}
+}
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
+}
+
+.s-current-sound{
+	margin-bottom:20px;
+}
+
 
 
 

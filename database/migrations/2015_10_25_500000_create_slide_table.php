@@ -18,6 +18,7 @@ class CreateSlideTable extends Migration
             $table->string('filepath');
             $table->integer('flame_id');
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 

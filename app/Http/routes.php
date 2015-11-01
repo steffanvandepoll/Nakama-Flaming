@@ -18,6 +18,17 @@ Route::get('/flametypes' , 'FlameTypeController@getIndex');
 Route::get('/champions' , 'ChampionController@getIndex');
 Route::get('/upload', 'UploadController@getIndex');
 
+Route::get('/upload/file', 'UploadController@getFileUpload');
+
+Route::get('/flame/add', ['middleware' => 'auth', 'uses' => 'FlameController@getAdd']);
+Route::get('/flame/edit/{id}', ['middleware' => 'auth', 'uses' => 'FlameController@getEdit']);
+Route::get('/flame/remove/{id}', ['middleware' => 'auth', 'uses' => 'FlameController@getRemove']);
+
+Route::post('/flame/edit/{id}', ['middleware' => 'auth', 'uses' => 'FlameController@postEdit']);
+Route::post('/flame/edit', ['middleware' => 'auth', 'uses' => 'FlameController@postEdit']);
+
+
+
 // Authentication routes...
 Route::get('auth/login', 'Auth\AuthController@getLogin');
 Route::post('auth/login', 'Auth\AuthController@postLogin');

@@ -6015,7 +6015,6 @@ p {
 .s-flame {
   background-color: #F1F1F1;
   color: #444;
-  margin-bottom: 10px;
   padding: 15px 0 0 0;
   text-align: center;
   position: relative; }
@@ -6047,6 +6046,8 @@ p {
   padding: 0;
   margin: 0;
   list-style: none; }
+  .s-flames li {
+    margin-bottom: 20px; }
 
 .s-champions {
   list-style-type: none;
@@ -6060,7 +6061,7 @@ p {
       max-width: 60px; }
 
 .s-play {
-  color: #b60000; }
+  color: #A94442; }
 
 .s-types {
   list-style-type: none;
@@ -6074,8 +6075,7 @@ p {
     margin: 0px;
     padding: 0px; }
     .s-types li span {
-      padding: 5px;
-      margin-right: 10px; }
+      padding: 5px; }
 
 .s-type-title {
   padding: 0;
@@ -6093,6 +6093,17 @@ p {
     padding: 0;
     margin: 0; }
     .s-flame-types ul li {
+      padding: 2px; }
+
+.s-flame-type-management {
+  color: white;
+  text-align: center;
+  margin: 0;
+  cursor: pointer; }
+  .s-flame-type-management ul {
+    padding: 0;
+    margin: 0; }
+    .s-flame-type-management ul li {
       padding: 2px; }
 
 .s-project-carousel {
@@ -6131,5 +6142,52 @@ p {
   right: 25px;
   top: 25px;
   height: 125px; }
+
+.s-footer {
+  margin: 25px 0px; }
+  .s-footer .btn-primary:hover, .s-footer .btn-primary:focus, .s-footer .btn-primary:active, .s-footer .btn-primary.active, .s-footer .open .dropdown-toggle.btn-primary {
+    background-color: #973d3b;
+    border-color: #973d3b; }
+  .s-footer .btn-primary {
+    background-color: #A94442;
+    border-color: #A94442; }
+
+.s-header {
+  margin: 25px 0; }
+  .s-header h1 {
+    font-size: 45px; }
+  .s-header img {
+    max-height: 100px; }
+
+.s-manage-flame {
+  margin-top: 5px; }
+  .s-manage-flame div {
+    padding: 0; }
+
+.s-management-panel {
+  margin-bottom: 20px; }
+
+.s-selectable-champion {
+  max-height: 75px;
+  max-width: 75px;
+  margin: 5px;
+  display: inline-block;
+  cursor: pointer; }
+
+#s-champion-list {
+  text-align: center;
+  max-height: 400px;
+  overflow: scroll; }
+
+#s-selected-champions {
+  height: 105px; }
+  #s-selected-champions .s-selectable-champion {
+    margin: 0 5px; }
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important; }
+
+.s-current-sound {
+  margin-bottom: 20px; }
 
 /*# sourceMappingURL=app.css.map */

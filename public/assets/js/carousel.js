@@ -12,7 +12,7 @@ angular.module('main').controller('carousel', function ($scope, $http, SoundServ
         data.forEach(function(item){
             $scope.slides.push({
                 title: item.description,
-                path: 'assets/sfx/' + item.flame.filepath,
+                path: item.flame.filepath,
                 background: 'assets/img/slider/' + item.filepath
             });
         });
@@ -20,7 +20,6 @@ angular.module('main').controller('carousel', function ($scope, $http, SoundServ
     });
 
     $scope.onPlay = function(filePath){
-        console.log(filePath);
         SoundService.play(filePath);
     }
 });

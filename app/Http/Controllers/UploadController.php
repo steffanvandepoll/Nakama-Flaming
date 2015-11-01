@@ -2,6 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\Http\Request;
+
+use Input;
+
 class UploadController extends Controller
 {
 	public function __construct()
@@ -13,4 +17,9 @@ class UploadController extends Controller
     {
     	return view('upload/index');
     }
+
+    public function getFileUpload(Request $request){
+
+    }
+
 }
